@@ -2,6 +2,11 @@
 
 A portfolio of some of my group projects that I've done at University, including Python programming for Machine Learning and Mathematical Data Modelling.
 
+## Identifying Bubbles in Financial Data
+
+A third year mathematical and data modelling group project based on identifying financial bubbles proposed by David Greenwood of CheckRisk (https://check-risk.com).  The project makes use of historical price data sets which includes stock market indexes such as the Dow Jones.  It focuses on the use of the stochastic Ornstein Uhlenbeck process as a means of detrending residuals from the price to the fundamental value.  We made conclusions from corresponding autocorrelation plots that markets trend in the short term and mean revert in the long term.  Also, plots of the Ornstein Uhlenbeck data provided an indicator of where bubbles may occur which could potentially be developed to predict crashes.  I developed my skills in data science with this project as I used techniques with Pandas in Python to analyse and remove noise from large data sets and apply complex statistical tests to them.
+
+
 ## Bayesian Linear Regression, Gaussian Process Regression and Principle Component Analysis
 
 A third year machine learning group project which I worked on with Mike Talbot (@miketalbotbox).  We achieved a First Class grade with a mark of 75% in this coursework.  I highly enjoyed this project as I learnt a lot about the key components of machine learning, including statistics and calculus.
@@ -18,7 +23,7 @@ The second part of the project was to use image segmentation to segment an image
 
 ## Emergence of Segregation in Networks
 
-A second year mathematical modelling group project based on different types of networks and measuring segregation through Markov chain convergence.  The project mark given was a First Class at 75% but I achieved a mark of 86% for my significant contributions.  The code made for the mathematical model is included in both the appendix of the report and separate files.
+A second year mathematical modelling group project based on different types of networks and measuring segregation through Markov chain convergence.  The project mark given was a First Class at 75% but I achieved a mark of 86% for my significant contributions.  The code made for the mathematical model is included in both the appendix of the report and separate files.  For this project I was introduced to building networks in Python using the Numpy and NetworkX packages.
 
 
 
