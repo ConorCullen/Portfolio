@@ -29,10 +29,6 @@ The aim of the project was to remove the noise from a corrupted image.  In the I
 
 The second part of the project was to use image segmentation to segment an image into its corresponding foreground and background layers.  This was done by using K-means clustering to separate different colours and plotting histograms which show where their probability density in the image.  The folder machinelearning_denoising includes a 5 page report detailing our conclusions, the project brief and the code we made to tackle the problems.
 
-## Emergence of Segregation in Networks
-
-A second year mathematical modelling project based on different types of networks and measuring segregation through Markov chain convergence.  I achieved a First Class grade with a mark of 86% for my contributions.  The code made for the mathematical model is included in both the appendix of the report and separate files.  For this project I was introduced to building networks in Python using the Numpy and NetworkX packages.
-
 
 
 
